@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # library
 My Library App in RoR
 =======
@@ -26,4 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> fee689b (First commit.)
