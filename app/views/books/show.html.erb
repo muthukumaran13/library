@@ -1,0 +1,16 @@
+<h1><%= @book.BookID %></h1>
+
+<p><%= @book.Name %></p>
+
+<p><%= @book.Description %></p>
+
+<p><%= @book.Author %></p>
+
+<div>
+  <table>
+  <tr>
+  <td><%= link_to "Edit", edit_book_path(@book) %></td>
+  <td><%= link_to "Index", "/" %></td>
+</tr>
+</table>
+  </div>

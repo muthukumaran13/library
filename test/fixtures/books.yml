@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ID: 
+  Name: MyString
+  Description: MyText
+  Author: MyString
+  Published: 2021-04-21
+  Edition: 1
+  Genres: MyText
+  Pages: 1
+  Price: 1.5
+  Publisher: MyString
+  BookType: MyString
+  Language: MyString
+  Dimensions: MyString
+  Weight: MyString
+  ISBN-10: MyString
+  ISBN-13: MyString
+  Reading: MyString
+  Age: 1
+
+two:
+  ID: 
+  Name: MyString
+  Description: MyText
+  Author: MyString
+  Published: 2021-04-21
+  Edition: 1
+  Genres: MyText
+  Pages: 1
+  Price: 1.5
+  Publisher: MyString
+  BookType: MyString
+  Language: MyString
+  Dimensions: MyString
+  Weight: MyString
+  ISBN-10: MyString
+  ISBN-13: MyString
+  Reading: MyString
+  Age: 1

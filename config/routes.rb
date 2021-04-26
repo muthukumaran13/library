@@ -1,3 +1,10 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  devise_for :users
+  root "books#index"
+
+  # get "/library", to: "books#index"
+  # get "/books/:BookID", to: "books#show"
+  resources :books
+  resources :authors
+  resources :publishers
 end
